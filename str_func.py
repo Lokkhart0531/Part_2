@@ -1,6 +1,6 @@
 def str_upper(some_str):
     """
-    Return str in upper
+    Return some str
     """
     return some_str.upper()
 
